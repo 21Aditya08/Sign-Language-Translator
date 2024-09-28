@@ -1,0 +1,11 @@
+/node_modules
+/.DS_Store
+package-lock.json
+yarn.lock
+# Ignore system files and directories
+AppData/
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
